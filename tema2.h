@@ -1,4 +1,3 @@
-/*ZUGRAVESCU Adina Andreea - 312CD*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
